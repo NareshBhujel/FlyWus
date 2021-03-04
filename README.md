@@ -1,2 +1,1 @@
-# FlyWus
-A tinder for Dog's.
+TinDog Starting Files
